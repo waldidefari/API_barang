@@ -3,5 +3,5 @@
     {"namaBarang": "Laptop", "namaInggris": "Laptops", "imageId": "laptop"},
     {"namaBarang": "kursi", "namaInggris": "Chair", "imageId": "kursi"},
     {"namaBarang": "meja", "namaInggris": "Table", "imageId": "meja"},
-    {"namaBarang": "koper", "namaInggris": "suitcase", "imageId": "koper"}
+    {"namaBarang": "koper", "namaInggris": "suitcase", "imageId":"koper"}
 ]
